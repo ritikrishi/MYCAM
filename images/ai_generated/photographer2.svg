@@ -1,0 +1,39 @@
+<svg width="250" height="250" viewBox="0 0 250 250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <circle cx="125" cy="125" r="125" fill="#e8dfd9" />
+  
+  <!-- Face shape -->
+  <ellipse cx="125" cy="120" rx="70" ry="85" fill="#d4b29a" />
+  
+  <!-- Hair -->
+  <path d="M55 100 C 55 50, 125 30, 145 40 C 190 60, 200 120, 190 150 C 180 180, 160 180, 155 175 C 150 170, 150 140, 150 140 C 170 130, 175 60, 125 50 C 75 40, 60 100, 75 130 C 75 130, 70 160, 60 170 C 50 180, 45 170, 55 130 Z" fill="#232323" />
+  
+  <!-- Eyes -->
+  <ellipse cx="95" cy="105" rx="10" ry="8" fill="white" />
+  <ellipse cx="155" cy="105" rx="10" ry="8" fill="white" />
+  <circle cx="95" cy="105" r="5" fill="#3b5e75" />
+  <circle cx="155" cy="105" r="5" fill="#3b5e75" />
+  
+  <!-- Eyebrows -->
+  <path d="M85 90 C 95 85, 105 85, 110 90" stroke="#232323" stroke-width="3" fill="none" />
+  <path d="M140 90 C 150 85, 160 85, 165 90" stroke="#232323" stroke-width="3" fill="none" />
+  
+  <!-- Nose -->
+  <path d="M122 110 C 125 120, 128 130, 125 135" stroke="#c09b87" stroke-width="3" fill="none" />
+  
+  <!-- Mouth -->
+  <path d="M105 150 C 115 158, 135 158, 145 150" stroke="#ad5b5b" stroke-width="3" fill="none" />
+  
+  <!-- Beard -->
+  <path d="M90 140 C 105 170, 145 170, 160 140" fill="#232323" />
+  <path d="M115 150 C 115 158, 135 158, 135 150" fill="#d4b29a" />
+  
+  <!-- Photographer accessories -->
+  <rect x="90" y="180" width="70" height="15" rx="5" fill="#303030" />
+  
+  <!-- Camera -->
+  <rect x="100" y="190" width="50" height="30" rx="5" fill="#303030" />
+  <circle cx="125" cy="205" r="10" fill="#505050" />
+  <circle cx="125" cy="205" r="5" fill="#111111" />
+  <rect x="137" y="193" width="10" height="5" fill="#505050" />
+</svg>

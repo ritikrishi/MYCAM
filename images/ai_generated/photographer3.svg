@@ -1,0 +1,44 @@
+<svg width="250" height="250" viewBox="0 0 250 250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <circle cx="125" cy="125" r="125" fill="#ebe6d9" />
+  
+  <!-- Face shape -->
+  <ellipse cx="125" cy="120" rx="70" ry="85" fill="#ddb68a" />
+  
+  <!-- Hair -->
+  <path d="M125 40 C 75 40, 60 70, 55 100 C 50 130, 55 145, 65 160 L 75 155 C 65 135, 65 120, 70 100 C 75 80, 90 60, 125 60 Z" fill="#8c6b3e" />
+  <path d="M125 40 C 175 40, 190 70, 195 100 C 200 130, 195 145, 185 160 L 175 155 C 185 135, 185 120, 180 100 C 175 80, 160 60, 125 60 Z" fill="#8c6b3e" />
+  <path d="M65 160 C 80 175, 100 180, 125 180 C 150 180, 170 175, 185 160 L 175 155 C 160 165, 145 170, 125 170 C 105 170, 90 165, 75 155 Z" fill="#8c6b3e" />
+  
+  <!-- Eyes -->
+  <ellipse cx="95" cy="105" rx="10" ry="8" fill="white" />
+  <ellipse cx="155" cy="105" rx="10" ry="8" fill="white" />
+  <circle cx="95" cy="105" r="5" fill="#4e301c" />
+  <circle cx="155" cy="105" r="5" fill="#4e301c" />
+  
+  <!-- Eyebrows -->
+  <path d="M85 90 C 95 85, 105 85, 110 90" stroke="#8c6b3e" stroke-width="3" fill="none" />
+  <path d="M140 90 C 150 85, 160 85, 165 90" stroke="#8c6b3e" stroke-width="3" fill="none" />
+  
+  <!-- Nose -->
+  <path d="M122 110 C 125 120, 128 130, 125 135" stroke="#c39d78" stroke-width="3" fill="none" />
+  
+  <!-- Mouth -->
+  <path d="M105 150 C 115 158, 135 158, 145 150" stroke="#c95959" stroke-width="3" fill="none" />
+  
+  <!-- Photographer accessories -->
+  <rect x="80" y="190" width="90" height="20" rx="5" fill="#444444" />
+  
+  <!-- Camera -->
+  <rect x="110" y="200" width="30" height="20" rx="3" fill="#222222" />
+  <circle cx="125" cy="210" r="7" fill="#444444" />
+  <circle cx="125" cy="210" r="3" fill="#111111" />
+  <rect x="115" y="202" width="5" height="3" fill="#666666" />
+  
+  <!-- Glasses -->
+  <circle cx="95" cy="105" r="13" stroke="#444444" stroke-width="2" fill="none" />
+  <circle cx="155" cy="105" r="13" stroke="#444444" stroke-width="2" fill="none" />
+  <path d="M108 105 L 142 105" stroke="#444444" stroke-width="2" fill="none" />
+  <path d="M82 105 L 75 100" stroke="#444444" stroke-width="2" fill="none" />
+  <path d="M168 105 L 175 100" stroke="#444444" stroke-width="2" fill="none" />
+</svg>
